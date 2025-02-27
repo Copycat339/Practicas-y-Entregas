@@ -7,4 +7,4 @@
   
 # Prácticas
 
-- [Curriculum WEB](https://copycat339.github.io/Practicas-y-Entregas//docs/cv-web/)
+- [Curriculum WEB](https://Copycat339.github.io/Practicas-y-Entregas//docs/cv-web/)
