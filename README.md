@@ -4,7 +4,8 @@
 
 - [Práctica 1](practica-1.md)
 - [Práctica 2](practica-2.md)
-- [Práctica 6](index.html)
+- [Práctica 6](https://copycat339.github.io/Practicas-y-Entregas/practica-6/#inicio)
+- [Práctica 7](https://copycat339.github.io/Practicas-y-Entregas/practica-7/#inicio)
   
 # Prácticas
 
