@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Usuario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Registro de Usuario</h1>
+
+    <form id="registroForm">
+        <div class="campo">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre">
+            <p class="error" id="error-nombre"></p>
+        </div>
+
+        <div class="campo">
+            <label for="email">Correo:</label>
+            <input type="email" id="email" name="email">
+            <p class="error" id="error-email"></p>
+        </div>
+
+        <div class="campo">
+            <label for="password">Contraseña:</label>
+            <input type="password" id="password" name="password">
+            <p class="error" id="error-password"></p>
+        </div>
+
+        <div class="campo">
+            <label for="confirmPassword">Confirmar Contraseña:</label>
+            <input type="password" id="confirmPassword" name="confirmPassword">
+            <p class="error" id="error-confirmPassword"></p>
+        </div>
+
+        <button type="submit">Registrar</button>
+    </form>
+
+    <div id="loader" class="loader oculto"></div>
+    <p id="mensaje-exito" class="exito oculto">Registro exitoso 🎉</p>
+
+    <script src="main.js"></script>
+</body>
+</html>
