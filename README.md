@@ -8,6 +8,7 @@
 - [Práctica 7](https://copycat339.github.io/Practicas-y-Entregas/practica-7/#inicio)
 - [Práctica 8](https://copycat339.github.io/Practicas-y-Entregas/practica-8/#inicio)
 - [Práctica 9](https://copycat339.github.io/Practicas-y-Entregas/practica-9/#inicio)
+- [Práctica 10: Proyecto tienda online - OVERSTITCH](./tienda-online.md)
   
 # Prácticas
 
