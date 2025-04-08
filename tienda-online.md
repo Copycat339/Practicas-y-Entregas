@@ -43,4 +43,4 @@
 
 ## 🔄 Diagrama de Flujo
 
-![Diagrama de Flujo](./assets/diagrama-flujo.png)
+![Diagrama de Flujo](./assets/flujo-compra.png)
