@@ -24,7 +24,7 @@
 
 ![Moodboard](./assets/moodboard.png)
 
-> Este moodboard representa el estilo visual de la tienda: ropa cómoda, tonos neutros, diseño limpio y con inspiración en cultura pop y anime sutil.
+> Este moodboard representa el estilo visual de la tienda
 
 ---
 
