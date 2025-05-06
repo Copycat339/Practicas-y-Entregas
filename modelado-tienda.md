@@ -71,3 +71,7 @@ CREATE TABLE Direccion_Envio (
 ## Diagrama Relacional
 
 ![Diagrama Relacional](./assets/DiagramaER.png)
+
+## Captura del Diagrama Relacional en Supabase
+
+![Diagrama Supabase](./assets/Supabase.png)
